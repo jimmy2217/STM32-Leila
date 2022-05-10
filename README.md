@@ -4,7 +4,7 @@ Custom STM32 ARM based microcontroller breakout board for the development of a s
 Key features:
 - STM32L1 series ARM Cortex-M3 microcontroller
 - 32MHz clock frequency
-- 5 (12-bit) andlog inputs
+- 5 (12-bit) analog inputs
 - 1 (12-bit) analog output
 - 19 digital IOs
 - Communication: 2 SPI, 2 I2C, 2 UART, 2 USB
